@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhaheenrahman
-- 👀 I’m interested in tech exploration and coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in tech exploration, Web development and coding
+- 🌱 I’m currently learning python,javascript and HTML along with react.js
 - 💞️ I’m looking to collaborate with people with same interests
 - 📫 How to reach me : mail: dhaheen.h@gmail.com
                      Contact:+919447495971
